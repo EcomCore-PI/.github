@@ -118,7 +118,7 @@ A documentação fornecida não apresenta um procedimento de instalação ou exe
 ## Contexto acadêmico e documentação
 
 - **Instituição:** São Paulo Tech School (SPTech).
-- **Equipe:** Grupo 08.
+- **Equipe:** Grupo 01.
 - **Tema:** monitoramento de recursos físicos de um servidor de e-commerce.
 - **Documento de referência:** `documentacao-EcomCore.pdf`.
 
